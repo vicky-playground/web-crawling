@@ -4,7 +4,9 @@
 About the project
 =
 1. Crawl the data from Taiwan's most prestigious recruiting website.
+-
 2. Export the data to xlsx
+-
 
 
 Project setup
