@@ -4,7 +4,8 @@
 About the project
 =
 1. Crawl the data from Taiwan's most prestigious recruiting website.
-2. Export the data to xlsx
+2. Use Developer Tools to inspect the website and then scrape the data
+3. Export the data to xlsx
 
 
 Project setup
