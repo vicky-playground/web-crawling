@@ -6,9 +6,9 @@ About the project
 =
 Project setup
 =
-   !pip install xlsxwriter
-   import requests
-   from bs4 import BeautifulSoup
-   import json
-   import pandas as pd
+      !pip install xlsxwriter
+      import requests
+      from bs4 import BeautifulSoup
+      import json
+      import pandas as pd
 
