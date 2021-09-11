@@ -6,5 +6,5 @@ About the project
 =
 Project setup
 =
-
+      !pip install xlsxwriter
 
